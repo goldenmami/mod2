@@ -1,4 +1,5 @@
 <?php
+include "file.json";
 echo "***************************************";
 echo "*                                     *";
 echo "*         hello Nokia!                *";
